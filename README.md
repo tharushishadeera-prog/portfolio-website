@@ -54,7 +54,7 @@ Portfolio-Website/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio-website.git
+git clone (https://github.com/tharushishadeera-prog/portfolio-website/tree/main)
 ```
 
 2. Open the project folder:
@@ -71,7 +71,7 @@ This portfolio was developed to present my academic journey, technical skills, p
 
 ## 📬 Contact
 
-- **GitHub:** [My GitHub Profile](https://github.com/YOUR_USERNAME)
+- **GitHub:** [My GitHub Profile](https://github.com/tharushishadeera-prog/portfolio-website/tree/main))
 - **LinkedIn:**(https://www.linkedin.com/in/tharushi-shadeera-manchanayaka-4b048632b/)
 - **Email:**tharushishadeera@gmail.com
 
